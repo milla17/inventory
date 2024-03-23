@@ -1,0 +1,24 @@
+* {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 80vw;
+  }
+}
+
+.border-left-primary {
+  border-left: 4px solid #4e73df;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.bi-2x {
+  font-size: 2rem;
+}
